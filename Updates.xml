@@ -1,4 +1,13 @@
 ﻿<updates>
+	<update version="1.0.4">
+		<files>
+			<file path="Components/LiveSplit.Minecraft.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Fixed the IGT to work for the latest game version(1.17).</change>
+			<change>Allowed users to paste in a saves directory as an alternative to the folder GUI.</change>
+		</changelog>
+	</update>
 	<update version="1.0.3">
 		<files>
 			<file path="Components/LiveSplit.Minecraft.dll" status="changed"/>
